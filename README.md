@@ -20,8 +20,6 @@
 - 📡 Hands-on experience with **LoRa technology**, geo-fencing, and IoT-style backend systems
 - ⛓️ Explored **blockchain & Web3** — built a decentralized voting system with Solidity smart contracts
 - 🏆 Hackathon winner — built and shipped working demos under 72-hour deadlines, multiple times
-- 🎤 Former **Technical Manager** & **Outreach Program Manager** at United Tech Club — led training sessions on Git/GitHub, OOP with C++, and C programming
-- 🌱 Currently sharpening backend and problem-solving skills, always up for the next hackathon
 
 <br>
 
