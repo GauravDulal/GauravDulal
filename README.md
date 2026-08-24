@@ -20,6 +20,8 @@
 - 📡 Hands-on experience with **LoRa technology**, geo-fencing, and IoT-style backend systems
 - ⛓️ Explored **blockchain & Web3** — built a decentralized voting system with Solidity smart contracts
 - 🏆 Hackathon winner — built and shipped working demos under 72-hour deadlines, multiple times
+- 🎤 Former **Technical Manager** & **Outreach Program Manager** at United Tech Club — led training sessions on Git/GitHub, OOP with C++, and C programming
+- 🌱 Currently sharpening backend and problem-solving skills, always up for the next hackathon
 
 <br>
 
@@ -47,12 +49,12 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GauravDulal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GauravDulal&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats-eight.vercel.app/api?username=GauravDulal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats-eight.vercel.app/api/top-langs/?username=GauravDulal&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GauravDulal&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=GauravDulal&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <br>
@@ -77,8 +79,7 @@
 - 🥇 **BIC Hackathon V4.0** — Winner
 - 🥇 **Hack the Future: AI & Open Source Hackathon** — People's Choice Award ([project gallery](https://chillguy.devpost.com/project-gallery))
 - 🥈 **BIC Hackathon V3.0** — Runner Up
-- 🎓 Dean's List — recognized for outstanding academic performance
-- 📢 Organized **United Tech Fusion 2080**, a national-level 2-day event with 1,100+ participants (CTF, project demos, Robo Football)
+
 
 <br>
 
